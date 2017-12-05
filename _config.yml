@@ -1,8 +1,8 @@
 title: Depth Of Kanban
 description: > # this means to ignore newlines until "baseurl:"
   #Depth Of Kanban
-baseurl: "/DepthOfKanban" # the subpath of your site, e.g. /blog
-url: "pavleras.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "pavleras.github.io/DepthOfKanban" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
