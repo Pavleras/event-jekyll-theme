@@ -335,11 +335,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 100vh;
+    height: 140vh;
     text-align: center;
-    color: #fff;
+    color: #FFF;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/css/2017_style/img/get-kanban-game.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
