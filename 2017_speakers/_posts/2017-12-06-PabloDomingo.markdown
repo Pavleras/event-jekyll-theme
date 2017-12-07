@@ -1,7 +1,7 @@
 ---
 title: Pablo Domingo
 name: PabloDomingo
-subtitle: Position
+subtitle: 
 layout: 2017_default
 modal-id: 1
 img: TBD.jpg
